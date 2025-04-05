@@ -70,4 +70,4 @@ A simple Python script to download the latest US FAA CIFP (Coded Instrument Flig
 
 This script relies on web scraping the FAA website structure. **Changes made by the FAA to their website layout may break the script's functionality**, so I may need to update the parsing logic if the website changes.
 
-![CIFP Updater Example Output](assets/CIFP_Updater.png)
+![CIFP Updater Example Output](https://github.com/TripleJumpStudios/CIFP-Updater/blob/3fd072f934307e955c4625f07f7268e001457717/CIFP_Updater.png)
